@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="spingMvc:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="spingMvc.war">
+      <element id="artifact" artifact-name="spingMvc:war exploded" />
+    </root>
+  </artifact>
+</component>
